@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\SecondProject\\SecondProject.csproj": {}
+    "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\BTVN01\\BTVN01.csproj": {}
   },
   "projects": {
-    "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\SecondProject\\SecondProject.csproj": {
+    "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\BTVN01\\BTVN01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\SecondProject\\SecondProject.csproj",
-        "projectName": "SecondProject",
-        "projectPath": "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\SecondProject\\SecondProject.csproj",
+        "projectUniqueName": "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\BTVN01\\BTVN01.csproj",
+        "projectName": "BTVN01",
+        "projectPath": "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\BTVN01\\BTVN01.csproj",
         "packagesPath": "C:\\Users\\he181\\.nuget\\packages\\",
-        "outputPath": "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\SecondProject\\obj\\",
+        "outputPath": "D:\\FU_Learning\\SU25\\PRN211\\code_tren_lop\\FirstProject\\BTVN01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

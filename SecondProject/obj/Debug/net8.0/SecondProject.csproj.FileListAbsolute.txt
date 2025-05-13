@@ -1,0 +1,15 @@
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\bin\Debug\net8.0\SecondProject.exe
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\bin\Debug\net8.0\SecondProject.deps.json
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\bin\Debug\net8.0\SecondProject.runtimeconfig.json
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\bin\Debug\net8.0\SecondProject.dll
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\bin\Debug\net8.0\SecondProject.pdb
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfoInputs.cache
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfo.cs
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.sourcelink.json
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.dll
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\refint\SecondProject.dll
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.pdb
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\SecondProject.genruntimeconfig.cache
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\SecondProject\obj\Debug\net8.0\ref\SecondProject.dll

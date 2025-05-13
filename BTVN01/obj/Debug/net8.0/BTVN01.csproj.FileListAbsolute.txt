@@ -1,0 +1,15 @@
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\bin\Debug\net8.0\BTVN01.exe
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\bin\Debug\net8.0\BTVN01.deps.json
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\bin\Debug\net8.0\BTVN01.runtimeconfig.json
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\bin\Debug\net8.0\BTVN01.dll
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\bin\Debug\net8.0\BTVN01.pdb
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.AssemblyInfoInputs.cache
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.AssemblyInfo.cs
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.csproj.CoreCompileInputs.cache
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.sourcelink.json
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.dll
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\refint\BTVN01.dll
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.pdb
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\BTVN01.genruntimeconfig.cache
+D:\FU_Learning\SU25\PRN211\code_tren_lop\FirstProject\BTVN01\obj\Debug\net8.0\ref\BTVN01.dll

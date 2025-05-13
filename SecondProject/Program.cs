@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Student std = new Student("John Doe", 20);
+
+            Console.WriteLine(std);
+            
+
+
         }
     }
 }
